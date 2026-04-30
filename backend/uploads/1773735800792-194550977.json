@@ -1,0 +1,2282 @@
+[
+  {
+    "basicInformation": {
+      "productName": "Apple Model 1",
+      "sku": "APP-001-256",
+      "barcode": "890123450001",
+      "brand": "Apple",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0001",
+      "hsnCode": "85171200",
+      "shortDescription": "Apple premium smartphone",
+      "longDescription": "Apple Model 1 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Apple"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 30500,
+      "landingCost": 31500,
+      "sellingPrice": 45700,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 51,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Apple India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-001",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "APP-1-BLK",
+        "price": 45700,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "APP-1-BLU",
+        "price": 45700,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Apple Model 1 Online",
+      "seoDescription": "Purchase Apple Model 1 at best price in India.",
+      "metaKeywords": [
+        "Apple Model 1",
+        "Apple",
+        "5G Phone"
+      ],
+      "slug": "apple-model-1",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Apple",
+      "packerDetails": "Apple India Pvt Ltd",
+      "importerDetails": "Apple India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "Samsung Model 2",
+      "sku": "SAM-002-256",
+      "barcode": "890123450002",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0002",
+      "hsnCode": "85171200",
+      "shortDescription": "Samsung premium smartphone",
+      "longDescription": "Samsung Model 2 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Samsung"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 31000,
+      "landingCost": 32000,
+      "sellingPrice": 46400,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 52,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Samsung India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-002",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "SAM-2-BLK",
+        "price": 46400,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "SAM-2-BLU",
+        "price": 46400,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Samsung Model 2 Online",
+      "seoDescription": "Purchase Samsung Model 2 at best price in India.",
+      "metaKeywords": [
+        "Samsung Model 2",
+        "Samsung",
+        "5G Phone"
+      ],
+      "slug": "samsung-model-2",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Samsung",
+      "packerDetails": "Samsung India Pvt Ltd",
+      "importerDetails": "Samsung India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "OnePlus Model 3",
+      "sku": "ONE-003-256",
+      "barcode": "890123450003",
+      "brand": "OnePlus",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0003",
+      "hsnCode": "85171200",
+      "shortDescription": "OnePlus premium smartphone",
+      "longDescription": "OnePlus Model 3 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "OnePlus"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 31500,
+      "landingCost": 32500,
+      "sellingPrice": 47100,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 53,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "OnePlus India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-003",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "ONE-3-BLK",
+        "price": 47100,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "ONE-3-BLU",
+        "price": 47100,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy OnePlus Model 3 Online",
+      "seoDescription": "Purchase OnePlus Model 3 at best price in India.",
+      "metaKeywords": [
+        "OnePlus Model 3",
+        "OnePlus",
+        "5G Phone"
+      ],
+      "slug": "oneplus-model-3",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "OnePlus",
+      "packerDetails": "OnePlus India Pvt Ltd",
+      "importerDetails": "OnePlus India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "Xiaomi Model 4",
+      "sku": "XIA-004-256",
+      "barcode": "890123450004",
+      "brand": "Xiaomi",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0004",
+      "hsnCode": "85171200",
+      "shortDescription": "Xiaomi premium smartphone",
+      "longDescription": "Xiaomi Model 4 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Xiaomi"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 32000,
+      "landingCost": 33000,
+      "sellingPrice": 47800,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 54,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Xiaomi India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-004",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "XIA-4-BLK",
+        "price": 47800,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "XIA-4-BLU",
+        "price": 47800,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Xiaomi Model 4 Online",
+      "seoDescription": "Purchase Xiaomi Model 4 at best price in India.",
+      "metaKeywords": [
+        "Xiaomi Model 4",
+        "Xiaomi",
+        "5G Phone"
+      ],
+      "slug": "xiaomi-model-4",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Xiaomi",
+      "packerDetails": "Xiaomi India Pvt Ltd",
+      "importerDetails": "Xiaomi India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "Realme Model 5",
+      "sku": "REA-005-256",
+      "barcode": "890123450005",
+      "brand": "Realme",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0005",
+      "hsnCode": "85171200",
+      "shortDescription": "Realme premium smartphone",
+      "longDescription": "Realme Model 5 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Realme"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 32500,
+      "landingCost": 33500,
+      "sellingPrice": 48500,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 55,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Realme India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-005",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "REA-5-BLK",
+        "price": 48500,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "REA-5-BLU",
+        "price": 48500,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Realme Model 5 Online",
+      "seoDescription": "Purchase Realme Model 5 at best price in India.",
+      "metaKeywords": [
+        "Realme Model 5",
+        "Realme",
+        "5G Phone"
+      ],
+      "slug": "realme-model-5",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Realme",
+      "packerDetails": "Realme India Pvt Ltd",
+      "importerDetails": "Realme India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "iQOO Model 6",
+      "sku": "IQO-006-256",
+      "barcode": "890123450006",
+      "brand": "iQOO",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0006",
+      "hsnCode": "85171200",
+      "shortDescription": "iQOO premium smartphone",
+      "longDescription": "iQOO Model 6 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "iQOO"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 33000,
+      "landingCost": 34000,
+      "sellingPrice": 49200,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 56,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "iQOO India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-006",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "IQO-6-BLK",
+        "price": 49200,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "IQO-6-BLU",
+        "price": 49200,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy iQOO Model 6 Online",
+      "seoDescription": "Purchase iQOO Model 6 at best price in India.",
+      "metaKeywords": [
+        "iQOO Model 6",
+        "iQOO",
+        "5G Phone"
+      ],
+      "slug": "iqoo-model-6",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "iQOO",
+      "packerDetails": "iQOO India Pvt Ltd",
+      "importerDetails": "iQOO India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "Google Model 7",
+      "sku": "GOO-007-256",
+      "barcode": "890123450007",
+      "brand": "Google",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0007",
+      "hsnCode": "85171200",
+      "shortDescription": "Google premium smartphone",
+      "longDescription": "Google Model 7 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Google"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 33500,
+      "landingCost": 34500,
+      "sellingPrice": 49900,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 57,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Google India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-007",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "GOO-7-BLK",
+        "price": 49900,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "GOO-7-BLU",
+        "price": 49900,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Google Model 7 Online",
+      "seoDescription": "Purchase Google Model 7 at best price in India.",
+      "metaKeywords": [
+        "Google Model 7",
+        "Google",
+        "5G Phone"
+      ],
+      "slug": "google-model-7",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Google",
+      "packerDetails": "Google India Pvt Ltd",
+      "importerDetails": "Google India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "Motorola Model 8",
+      "sku": "MOT-008-256",
+      "barcode": "890123450008",
+      "brand": "Motorola",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0008",
+      "hsnCode": "85171200",
+      "shortDescription": "Motorola premium smartphone",
+      "longDescription": "Motorola Model 8 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Motorola"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 34000,
+      "landingCost": 35000,
+      "sellingPrice": 50600,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 58,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Motorola India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-008",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "MOT-8-BLK",
+        "price": 50600,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "MOT-8-BLU",
+        "price": 50600,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Motorola Model 8 Online",
+      "seoDescription": "Purchase Motorola Model 8 at best price in India.",
+      "metaKeywords": [
+        "Motorola Model 8",
+        "Motorola",
+        "5G Phone"
+      ],
+      "slug": "motorola-model-8",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Motorola",
+      "packerDetails": "Motorola India Pvt Ltd",
+      "importerDetails": "Motorola India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "Vivo Model 9",
+      "sku": "VIV-009-256",
+      "barcode": "890123450009",
+      "brand": "Vivo",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0009",
+      "hsnCode": "85171200",
+      "shortDescription": "Vivo premium smartphone",
+      "longDescription": "Vivo Model 9 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Vivo"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 34500,
+      "landingCost": 35500,
+      "sellingPrice": 51300,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 59,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Vivo India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-009",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "VIV-9-BLK",
+        "price": 51300,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "VIV-9-BLU",
+        "price": 51300,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Vivo Model 9 Online",
+      "seoDescription": "Purchase Vivo Model 9 at best price in India.",
+      "metaKeywords": [
+        "Vivo Model 9",
+        "Vivo",
+        "5G Phone"
+      ],
+      "slug": "vivo-model-9",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Vivo",
+      "packerDetails": "Vivo India Pvt Ltd",
+      "importerDetails": "Vivo India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "Oppo Model 10",
+      "sku": "OPP-010-256",
+      "barcode": "890123450010",
+      "brand": "Oppo",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0010",
+      "hsnCode": "85171200",
+      "shortDescription": "Oppo premium smartphone",
+      "longDescription": "Oppo Model 10 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Oppo"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 35000,
+      "landingCost": 36000,
+      "sellingPrice": 52000,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 60,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Oppo India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-010",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "OPP-10-BLK",
+        "price": 52000,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "OPP-10-BLU",
+        "price": 52000,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Oppo Model 10 Online",
+      "seoDescription": "Purchase Oppo Model 10 at best price in India.",
+      "metaKeywords": [
+        "Oppo Model 10",
+        "Oppo",
+        "5G Phone"
+      ],
+      "slug": "oppo-model-10",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Oppo",
+      "packerDetails": "Oppo India Pvt Ltd",
+      "importerDetails": "Oppo India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "Apple Model 11",
+      "sku": "APP-011-256",
+      "barcode": "890123450011",
+      "brand": "Apple",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0011",
+      "hsnCode": "85171200",
+      "shortDescription": "Apple premium smartphone",
+      "longDescription": "Apple Model 11 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Apple"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 35500,
+      "landingCost": 36500,
+      "sellingPrice": 52700,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 61,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Apple India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-011",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "APP-11-BLK",
+        "price": 52700,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "APP-11-BLU",
+        "price": 52700,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Apple Model 11 Online",
+      "seoDescription": "Purchase Apple Model 11 at best price in India.",
+      "metaKeywords": [
+        "Apple Model 11",
+        "Apple",
+        "5G Phone"
+      ],
+      "slug": "apple-model-11",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Apple",
+      "packerDetails": "Apple India Pvt Ltd",
+      "importerDetails": "Apple India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "Samsung Model 12",
+      "sku": "SAM-012-256",
+      "barcode": "890123450012",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0012",
+      "hsnCode": "85171200",
+      "shortDescription": "Samsung premium smartphone",
+      "longDescription": "Samsung Model 12 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Samsung"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 36000,
+      "landingCost": 37000,
+      "sellingPrice": 53400,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 62,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Samsung India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-012",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "SAM-12-BLK",
+        "price": 53400,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "SAM-12-BLU",
+        "price": 53400,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Samsung Model 12 Online",
+      "seoDescription": "Purchase Samsung Model 12 at best price in India.",
+      "metaKeywords": [
+        "Samsung Model 12",
+        "Samsung",
+        "5G Phone"
+      ],
+      "slug": "samsung-model-12",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Samsung",
+      "packerDetails": "Samsung India Pvt Ltd",
+      "importerDetails": "Samsung India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "OnePlus Model 13",
+      "sku": "ONE-013-256",
+      "barcode": "890123450013",
+      "brand": "OnePlus",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0013",
+      "hsnCode": "85171200",
+      "shortDescription": "OnePlus premium smartphone",
+      "longDescription": "OnePlus Model 13 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "OnePlus"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 36500,
+      "landingCost": 37500,
+      "sellingPrice": 54100,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 63,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "OnePlus India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-013",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "ONE-13-BLK",
+        "price": 54100,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "ONE-13-BLU",
+        "price": 54100,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy OnePlus Model 13 Online",
+      "seoDescription": "Purchase OnePlus Model 13 at best price in India.",
+      "metaKeywords": [
+        "OnePlus Model 13",
+        "OnePlus",
+        "5G Phone"
+      ],
+      "slug": "oneplus-model-13",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "OnePlus",
+      "packerDetails": "OnePlus India Pvt Ltd",
+      "importerDetails": "OnePlus India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "Xiaomi Model 14",
+      "sku": "XIA-014-256",
+      "barcode": "890123450014",
+      "brand": "Xiaomi",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0014",
+      "hsnCode": "85171200",
+      "shortDescription": "Xiaomi premium smartphone",
+      "longDescription": "Xiaomi Model 14 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Xiaomi"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 37000,
+      "landingCost": 38000,
+      "sellingPrice": 54800,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 64,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Xiaomi India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-014",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "XIA-14-BLK",
+        "price": 54800,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "XIA-14-BLU",
+        "price": 54800,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Xiaomi Model 14 Online",
+      "seoDescription": "Purchase Xiaomi Model 14 at best price in India.",
+      "metaKeywords": [
+        "Xiaomi Model 14",
+        "Xiaomi",
+        "5G Phone"
+      ],
+      "slug": "xiaomi-model-14",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Xiaomi",
+      "packerDetails": "Xiaomi India Pvt Ltd",
+      "importerDetails": "Xiaomi India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "Realme Model 15",
+      "sku": "REA-015-256",
+      "barcode": "890123450015",
+      "brand": "Realme",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0015",
+      "hsnCode": "85171200",
+      "shortDescription": "Realme premium smartphone",
+      "longDescription": "Realme Model 15 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Realme"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 37500,
+      "landingCost": 38500,
+      "sellingPrice": 55500,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 65,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Realme India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-015",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "REA-15-BLK",
+        "price": 55500,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "REA-15-BLU",
+        "price": 55500,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Realme Model 15 Online",
+      "seoDescription": "Purchase Realme Model 15 at best price in India.",
+      "metaKeywords": [
+        "Realme Model 15",
+        "Realme",
+        "5G Phone"
+      ],
+      "slug": "realme-model-15",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Realme",
+      "packerDetails": "Realme India Pvt Ltd",
+      "importerDetails": "Realme India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "iQOO Model 16",
+      "sku": "IQO-016-256",
+      "barcode": "890123450016",
+      "brand": "iQOO",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0016",
+      "hsnCode": "85171200",
+      "shortDescription": "iQOO premium smartphone",
+      "longDescription": "iQOO Model 16 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "iQOO"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 38000,
+      "landingCost": 39000,
+      "sellingPrice": 56200,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 66,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "iQOO India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-016",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "IQO-16-BLK",
+        "price": 56200,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "IQO-16-BLU",
+        "price": 56200,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy iQOO Model 16 Online",
+      "seoDescription": "Purchase iQOO Model 16 at best price in India.",
+      "metaKeywords": [
+        "iQOO Model 16",
+        "iQOO",
+        "5G Phone"
+      ],
+      "slug": "iqoo-model-16",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "iQOO",
+      "packerDetails": "iQOO India Pvt Ltd",
+      "importerDetails": "iQOO India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "Google Model 17",
+      "sku": "GOO-017-256",
+      "barcode": "890123450017",
+      "brand": "Google",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0017",
+      "hsnCode": "85171200",
+      "shortDescription": "Google premium smartphone",
+      "longDescription": "Google Model 17 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Google"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 38500,
+      "landingCost": 39500,
+      "sellingPrice": 56900,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 67,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Google India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-017",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "GOO-17-BLK",
+        "price": 56900,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "GOO-17-BLU",
+        "price": 56900,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Google Model 17 Online",
+      "seoDescription": "Purchase Google Model 17 at best price in India.",
+      "metaKeywords": [
+        "Google Model 17",
+        "Google",
+        "5G Phone"
+      ],
+      "slug": "google-model-17",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Google",
+      "packerDetails": "Google India Pvt Ltd",
+      "importerDetails": "Google India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "Motorola Model 18",
+      "sku": "MOT-018-256",
+      "barcode": "890123450018",
+      "brand": "Motorola",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0018",
+      "hsnCode": "85171200",
+      "shortDescription": "Motorola premium smartphone",
+      "longDescription": "Motorola Model 18 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Motorola"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 39000,
+      "landingCost": 40000,
+      "sellingPrice": 57600,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 68,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Motorola India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-018",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "MOT-18-BLK",
+        "price": 57600,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "MOT-18-BLU",
+        "price": 57600,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Motorola Model 18 Online",
+      "seoDescription": "Purchase Motorola Model 18 at best price in India.",
+      "metaKeywords": [
+        "Motorola Model 18",
+        "Motorola",
+        "5G Phone"
+      ],
+      "slug": "motorola-model-18",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Motorola",
+      "packerDetails": "Motorola India Pvt Ltd",
+      "importerDetails": "Motorola India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "Vivo Model 19",
+      "sku": "VIV-019-256",
+      "barcode": "890123450019",
+      "brand": "Vivo",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0019",
+      "hsnCode": "85171200",
+      "shortDescription": "Vivo premium smartphone",
+      "longDescription": "Vivo Model 19 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Vivo"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 39500,
+      "landingCost": 40500,
+      "sellingPrice": 58300,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 69,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Vivo India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-019",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "VIV-19-BLK",
+        "price": 58300,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "VIV-19-BLU",
+        "price": 58300,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Vivo Model 19 Online",
+      "seoDescription": "Purchase Vivo Model 19 at best price in India.",
+      "metaKeywords": [
+        "Vivo Model 19",
+        "Vivo",
+        "5G Phone"
+      ],
+      "slug": "vivo-model-19",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Vivo",
+      "packerDetails": "Vivo India Pvt Ltd",
+      "importerDetails": "Vivo India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  },
+  {
+    "basicInformation": {
+      "productName": "Oppo Model 20",
+      "sku": "OPP-020-256",
+      "barcode": "890123450020",
+      "brand": "Oppo",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "modelNumber": "MDL-0020",
+      "hsnCode": "85171200",
+      "shortDescription": "Oppo premium smartphone",
+      "longDescription": "Oppo Model 20 offers flagship performance, advanced camera, and long battery life.",
+      "tags": [
+        "5G",
+        "Android",
+        "Smartphone",
+        "Oppo"
+      ]
+    },
+    "pricing": {
+      "wholesalePrice": 40000,
+      "landingCost": 41000,
+      "sellingPrice": 59000,
+      "discountPercent": 10,
+      "discountType": "Percentage",
+      "gstRate": 18,
+      "profitMargin": 25,
+      "minimumOrderQuantity": 1
+    },
+    "inventory": {
+      "openingStock": 70,
+      "warehouseLocation": "Pune Warehouse A1",
+      "stockAlertThreshold": 5,
+      "reorderLevel": 10,
+      "supplierName": "Oppo India Pvt Ltd",
+      "supplierContact": "+91-9000000000",
+      "batchNumber": "BATCH2026-020",
+      "expiryDate": null,
+      "serialTracking": true
+    },
+    "media": {
+      "mainImage": "https://example.com/mobile.jpg",
+      "galleryImages": [
+        "https://example.com/mobile-1.jpg",
+        "https://example.com/mobile-2.jpg"
+      ],
+      "images360": [],
+      "productVideo": "https://example.com/mobile.mp4",
+      "thumbnailGenerated": true
+    },
+    "specifications": {
+      "display": "6.7 AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rearCamera": "50MP",
+      "frontCamera": "32MP",
+      "battery": "5000mAh",
+      "os": "Android 14"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sku": "OPP-20-BLK",
+        "price": 59000,
+        "stock": 25
+      },
+      {
+        "color": "Blue",
+        "sku": "OPP-20-BLU",
+        "price": 59000,
+        "stock": 25
+      }
+    ],
+    "shipping": {
+      "weight": "200g",
+      "shippingClass": "Premium",
+      "freeShipping": true,
+      "deliveryTime": "3-5 Days",
+      "returnPolicyDays": 7,
+      "codAvailable": true
+    },
+    "seoMarketing": {
+      "seoTitle": "Buy Oppo Model 20 Online",
+      "seoDescription": "Purchase Oppo Model 20 at best price in India.",
+      "metaKeywords": [
+        "Oppo Model 20",
+        "Oppo",
+        "5G Phone"
+      ],
+      "slug": "oppo-model-20",
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "offerBadge": "10% OFF"
+    },
+    "status": {
+      "active": true,
+      "draft": false,
+      "publishDate": {
+        "$date": "2026-02-23T00:00:00Z"
+      },
+      "visibility": "Public"
+    },
+    "legalCompliance": {
+      "gstPercent": 18,
+      "hsnCode": "85171200",
+      "manufacturerName": "Oppo",
+      "packerDetails": "Oppo India Pvt Ltd",
+      "importerDetails": "Oppo India Pvt Ltd",
+      "fssaiLicense": null,
+      "warrantyPolicy": "1 Year Manufacturer Warranty"
+    }
+  }
+]

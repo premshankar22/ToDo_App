@@ -1,0 +1,60 @@
+/* ---------- RESET ---------- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+}
+
+/* ---------- SMOOTH SCROLL ---------- */
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* ---------- GLOBAL SCROLL STYLE ---------- */
+
+* {
+  scrollbar-width: thin; /* Firefox */
+  scrollbar-color: transparent transparent;
+}
+
+/* ---------- CHROME / EDGE / SAFARI ---------- */
+
+*::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+/* Track */
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Thumb (hidden by default using opacity trick) */
+*::-webkit-scrollbar-thumb {
+  background: rgba(100, 116, 139, 0);
+  border-radius: 10px;
+  transition: background 0.3s ease;
+}
+
+/* ---------- SHOW ON HOVER (SMOOTH) ---------- */
+
+*:hover::-webkit-scrollbar-thumb {
+  background: rgba(100, 116, 139, 0.4);
+}
+
+/* Hover stronger */
+*::-webkit-scrollbar-thumb:hover {
+  background: rgba(100, 116, 139, 0.7);
+}
+
+/* ---------- FIREFOX HOVER FIX ---------- */
+
+*:hover {
+  scrollbar-color: rgba(100, 116, 139, 0.4) transparent;
+}

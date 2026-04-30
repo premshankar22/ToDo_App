@@ -1,0 +1,96 @@
+/* MAIN TOOLBAR */
+
+.rbc-toolbar {
+  background: linear-gradient(135deg, #6366f1, #7c3aed);
+  border-radius: 12px;
+  padding: 12px 16px;
+  margin-bottom: 14px;
+  color: white;
+}
+
+/* Toolbar button */
+
+.rbc-toolbar button {
+  background: rgba(255,255,255,0.15);
+  border: none;
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-weight: 500;
+  color: white;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+/* Hover effect */
+
+.rbc-toolbar button:hover {
+  background: rgba(255,255,255,0.35);
+  transform: translateY(-1px);
+}
+
+/* Active view button */
+
+.rbc-toolbar button.rbc-active {
+  background: white;
+  color: #6366f1;
+  font-weight: 600;
+}
+
+/* Calendar header (Mon Tue Wed) */
+
+.rbc-header {
+  background: linear-gradient(90deg,#eef2ff,#f5f3ff);
+  font-weight: 600;
+  padding: 10px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+/* Today highlight */
+
+.rbc-today {
+  background: rgba(99,102,241,0.15);
+}
+
+/* Date numbers */
+
+.rbc-date-cell {
+  font-weight: 600;
+  color: #4f46e5;
+}
+
+/* Month cell hover */
+
+.rbc-day-bg:hover {
+  background: rgba(99,102,241,0.08);
+  transition: background 0.2s ease;
+}
+
+/* Events */
+
+.rbc-event {
+  border-radius: 8px;
+  padding: 3px 8px;
+  font-size: 12px;
+  font-weight: 500;
+  border: none;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+/* Agenda view */
+
+.rbc-agenda-view table {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+/* Time grid */
+
+.rbc-time-view {
+  border-radius: 10px;
+}
+
+/* Smooth calendar cell transitions */
+
+.rbc-day-bg {
+  transition: all 0.15s ease;
+}
